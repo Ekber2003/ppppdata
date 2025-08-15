@@ -9,16 +9,21 @@
     "fiyat": 407.99,
     "renk":"Siyah",
     "bedenler": [
+      "XS",
       "S",
       "M",
       "L",
-      "XL"
+      "XL",
+      "2XL",
+      "3XL"
     ],
-    "stok": 108,
+    "stok": 300,
     "etiket":"Sepette 20% Az Öde",
     "resimler": [
-      "https://images.altinyildizclassics.com/mnresize/460/690/images/4A4820200047SSS_45.jpg",
-      "https://images.altinyildizclassics.com/mnresize/460/690/images/4A4820200047SSS_46.jpg"
+      "https://images.altinyildizclassics.com/images/4A4820200047SSS_60.jpg",
+      "https://images.altinyildizclassics.com/images/4A4820200047SSS_61.jpg",
+      "https://images.altinyildizclassics.com/images/4A4820200047SSS_62.jpg",
+      "https://images.altinyildizclassics.com/images/4A4820200047SSS_67.jpg"
     ]
   },
     {
@@ -31,16 +36,21 @@
     "fiyat": 299.99,
     "renk":"Beyaz",
     "bedenler": [
+      "XS",
       "S",
       "M",
       "L",
-      "XL"
+      "XL",
+      "2XL",
+      "3XL"
     ],
-    "stok": 110,
+    "stok": 300,
     "etiket":"Sepette 20% Az Öde",
     "resimler": [
-      "https://images.altinyildizclassics.com/mnresize/460/690/images/4A4800000001BYZ_90.jpg",
-      "https://images.altinyildizclassics.com/mnresize/460/690/images/4A4800000001BYZ_91.jpg"
+      "https://images.altinyildizclassics.com/images/4A4800000001BYZ_90.jpg",
+      "https://images.altinyildizclassics.com/images/4A4800000001BYZ_91.jpg",
+      "https://images.altinyildizclassics.com/images/4A4800000001BYZ_92.jpg",
+      "https://images.altinyildizclassics.com/images/4A4800000001BYZ_94.jpg"
     ]
   },
     {
@@ -53,16 +63,21 @@
     "fiyat": 1299.99,
     "renk":"Beyaz",
     "bedenler": [
+      "XS",
       "S",
       "M",
       "L",
-      "XL"
+      "XL",
+      "2XL",
+      "3XL"
     ],
-    "stok": 210,
+    "stok": 300,
     "etiket":"2 Al Sepette %10",
     "resimler": [
-      "https://images.altinyildizclassics.com/mnresize/460/690/images/4A2000000001amv_1.jpg",
-      "https://images.altinyildizclassics.com/mnresize/460/690/images/4A2000000001amv_3.jpg"
+      "https://images.altinyildizclassics.com/images/4A2000000001amv_1.jpg",
+      "https://images.altinyildizclassics.com/images/4A2000000001amv_4.jpg",
+      "https://images.altinyildizclassics.com/images/4A2000000001amv_5.jpg",
+      "https://images.altinyildizclassics.com/images/4A2000000001amv_3.jpg"
     ]
   },
      {
@@ -75,16 +90,21 @@
     "fiyat": 449.99,
     "renk":"kahverengi",
     "bedenler": [
+      "XS",
       "S",
       "M",
       "L",
-      "XL"
+      "XL",
+      "2XL",
+      "3XL"
     ],
-    "stok": 210,
+    "stok": 300,
     "etiket":"Sepette 20% Az Öde",
     "resimler": [
-      "https://images.altinyildizclassics.com/mnresize/460/690/images/4A2022200071KHV_20.jpg",
-      "https://images.altinyildizclassics.com/mnresize/460/690/images/4A2022200071KHV_20.jpg"
+      "https://images.altinyildizclassics.com/images/ETE020252547BEJ_1.jpg",
+      "https://images.altinyildizclassics.com/images/ETE020252547BEJ_3.jpg",
+      "https://images.altinyildizclassics.com/images/ETE020252547BEJ_4.jpg",
+      "https://images.altinyildizclassics.com/images/ETE020252547BEJ_5.jpg"
     ]
   },
      {
@@ -105,11 +125,13 @@
       "41",
       "42"
     ],
-    "stok": 220,
-    "etiket":" ",
+    "stok": 300,
+    "etiket":"Sepette 5% Az Öde",
     "resimler": [
       "https://images.altinyildizclassics.com/images/4A2223200050BYZ_7.jpg",
-      "https://images.altinyildizclassics.com/images/4A2223200050BYZ_1.jpg"
+      "https://images.altinyildizclassics.com/images/4A2223200050BYZ_1.jpg",
+      "https://images.altinyildizclassics.com/images/4A2223200050BYZ_10.jpg",
+      "https://images.altinyildizclassics.com/images/4A2223200050BYZ_3.jpg"
     ]
   },
      {
@@ -131,10 +153,12 @@
       "42"
     ],
     "stok": 310,
-    "etiket":" ",
+    "etiket":"Sepette 5% Az Öde",
     "resimler": [
       "https://images.altinyildizclassics.com/images/4A2223200050SYH_7.jpg",
-      "https://images.altinyildizclassics.com/images/4A2223200050SYH_6.jpg"
+      "https://images.altinyildizclassics.com/images/4A2223200050SYH_6.jpg",
+      "https://images.altinyildizclassics.com/images/4A2223200050SYH_9.jpg",
+      "https://images.altinyildizclassics.com/images/4A2223200050SYH_5.jpg"
     ]
   },
      {
@@ -151,39 +175,21 @@
       "110",
       "115",
       "120",
-      "125"
+      "125",
+      "130",
+      "135"
     ],
     "stok": 310,
-    "etiket":" ",
+    "etiket":"Sepette 5% Az Öde",
     "resimler": [
-      "https://images.altinyildizclassics.com/images/ET2424100002LAC_6.jpg"
+      "https://images.altinyildizclassics.com/images/ET2424100002LAC_6.jpg",
+      "https://images.altinyildizclassics.com/images/ET2424100002LAC_5.jpg",
+      "https://images.altinyildizclassics.com/images/ET2424100002LAC_7.jpg"
     ]
   },
-       {
+
+     {
     "id": 8,
-    "tip":"Kampanyalar",
-    "kategori": "Sıcak Yaza Özel",
-    "altKategori": "Flash Sale",
-    "isim": "Slim Fit Dar Kesim Kıvrılmaz Polo Yaka Kısa Kollu Açık Mavi Tişört",
-    "kod": "4A4820200047amv",
-    "fiyat": 389.99,
-    "endirimlifiyat":313.99,
-    "renk":"Açık Mavi",
-    "bedenler": [
-      "S",
-      "M",
-      "L",
-      "XL"
-    ],
-    "stok": 300,
-    "etiket":"Sepette %5 Az Öde",
-    "resimler": [
-      "https://images.altinyildizclassics.com/images/4A4820200047amv_100.jpg",  
-      "https://images.altinyildizclassics.com/images/4A4820200047amv_101.jpg"
-    ]
-  },
-         {
-    "id": 9,
     "tip":"Kampanyalar",
     "kategori": "Damat Bohçası Fırsatları",
     "altKategori": "5 Al 4 Öde",
@@ -193,20 +199,25 @@
     "endirimlifiyat":233.99,
     "renk":"Açık Mavi",
     "bedenler": [
+      "XS",
       "S",
       "M",
       "L",
-      "XL"
+      "XL",
+      "2XL",
+      "3XL"
     ],
     "stok": 300,
     "etiket":"Sepette %5 Az Öde",
     "resimler": [
-      "https://images.altinyildizclassics.com/images/4A4820200047amv_100.jpg",  
-      "https://images.altinyildizclassics.com/images/4A4820200047amv_101.jpg"
+      "https://images.altinyildizclassics.com/images/ET4800000001BYZ_50.jpg",  
+      "https://images.altinyildizclassics.com/images/ET4800000001BYZ_52.jpg",
+      "https://images.altinyildizclassics.com/images/ET4800000001BYZ_55.jpg",
+      "https://images.altinyildizclassics.com/images/ET4800000001BYZ_57.jpg"
     ]
   },
        {
-    "id": 10,
+    "id": 9,
     "tip":"Aksesuar",
     "kategori": "Takım Elbise Aksesuarları",
     "altKategori": "Kravat",
@@ -219,7 +230,9 @@
       "110",
       "115",
       "120",
-      "125"
+      "125",
+      "130",
+      "135"
     ],
     "stok": 310,
     "etiket":"Sepette %15 Az Öde",
@@ -229,7 +242,7 @@
     ]
   },
     {
-    "id": 11,
+    "id": 10,
     "tip":"Giyim",
     "kategori": "Pantolon",
     "altKategori": "Klasik Pantolon",
@@ -241,9 +254,12 @@
       "46",
       "48",
       "50",
-      "54"
+      "54",
+      "56",
+      "58",
+      "60"
     ],
-    "stok": 108,
+    "stok": 308,
     "etiket":"Sepette 30% Az Öde",
     "resimler": [
       "https://images.altinyildizclassics.com/images/4A0100000002SYH_35.jpg",
@@ -253,7 +269,7 @@
     ]
   },
       {
-    "id": 12,
+    "id": 11,
     "tip":"Giyim",
     "kategori": "Takım Elbise",
     "altKategori": "Klasik Takım Elbise",
@@ -269,7 +285,7 @@
       "54-6N",
       "58-6N"
     ],
-    "stok": 121,
+    "stok": 321,
     "etiket":"Sepette 15% Az Öde",
     "resimler": [
       "https://images.altinyildizclassics.com/images/4A3023100029BRD_1.jpg",
@@ -279,13 +295,13 @@
     ]
   },
         {
-    "id": 13,
+    "id": 12,
     "tip":"Giyim",
     "kategori": "Takım Elbise",
     "altKategori": "Klasik Takım Elbise",
     "isim": "Slim Fit Dar Kesim Mono Yaka Çizgili Antrasit Takım Elbise",
     "kod": "4A3022200069ATR",
-    "fiyat": 4,
+    "fiyat": 6999.99,
     "renk":"Siyah",
     "bedenler": [
       "46-6N",
@@ -295,7 +311,7 @@
       "54-6N",
       "58-6N"
     ],
-    "stok": 200,
+    "stok": 300,
     "etiket":"Sepette 5% Az Öde",
     "resimler": [
       "https://images.altinyildizclassics.com/images/4A3022200069ATR_6.jpg",
@@ -305,7 +321,7 @@
     ]
   },
         {
-    "id": 14,
+    "id": 13,
     "tip":"Giyim",
     "kategori": "Takım Elbise",
     "altKategori": "Nano Takım Elbise",
@@ -321,7 +337,7 @@
       "54-6N",
       "58-6N"
     ],
-    "stok": 1,
+    "stok": 350,
     "etiket":"Sepette 10% Az Öde",
     "resimler": [
       "https://images.altinyildizclassics.com/images/4A3010000016LAC_1.jpg",
@@ -331,7 +347,7 @@
     ]
   },
         {
-    "id": 15,
+    "id": 14,
     "tip":"Giyim",
     "kategori": "Takım Elbise",
     "altKategori": "Nano Takım Elbise",
@@ -347,7 +363,7 @@
       "54-6N",
       "58-6N"
     ],
-    "stok": 132,
+    "stok": 332,
     "etiket":"Sepette 10% Az Öde",
     "resimler": [
       "https://images.altinyildizclassics.com/images/4A3010000007SYH_1.jpg",
@@ -357,7 +373,7 @@
     ]
   },
         {
-    "id": 16,
+    "id": 15,
     "tip":"Ayakkabı",
     "kategori": "Terlik",
     "altKategori": "",
@@ -384,192 +400,277 @@
     ]
   },
         {
-    "id": 17,
-    "tip":"Ayakkabı",
-    "kategori": "Terlik",
-    "altKategori": "",
-    "isim": "Esnek Rahat Taban Lacivert Terlik",
-    "kod": "4A2323200003LAC",
-    "fiyat": 399.99,
-    "endirimlifiyat":347.99,
-    "renk":"Lacivert",
+    "id": 16,
+    "tip":"Giyim",
+    "kategori": "Pantolon",
+    "altKategori": "Jean",
+    "isim": "Ekstra Slim Fit Dar Kesim Rıss Pamuklu Esnek Jean Kot Antrasit Denim Pantolon",
+    "kod": "ET0100000003ATR",
+    "fiyat": 659.99,
+    "renk":"Antrasit",
     "bedenler": [
-      "40",
-      "41",
-      "42",
-      "43",
-      "44",
-      "45"
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36"
     ],
     "stok": 348,
-    "etiket":"Sepette 10% Az Öde",
+    "etiket":"Sepette 20% Az Öde",
     "resimler": [
-      "https://images.altinyildizclassics.com/images/4A2323200003LAC_20.jpg",
-      "https://images.altinyildizclassics.com/images/4A2323200003LAC_21.jpg",
-      "https://images.altinyildizclassics.com/images/4A2323200003LAC_22.jpg",
-      "https://images.altinyildizclassics.com/images/4A2323200003LAC_23.jpg"
+      "https://images.altinyildizclassics.com/images/ET0100000003ATR_105.jpg",
+      "https://images.altinyildizclassics.com/images/ET0100000003ATR_106.jpg",
+      "https://images.altinyildizclassics.com/images/ET0100000003ATR_108.jpg",
+      "https://images.altinyildizclassics.com/images/ET0100000003ATR_112.jpg"
+    ]
+  },
+          {
+    "id": 17,
+    "tip":"Giyim",
+    "kategori": "Pantolon",
+    "altKategori": "Jean",
+    "isim": "Slim Fit Dar Kesim 5 Cep Esnek Jean Kot Mavi Denim Pantolon",
+    "kod": "4A0124100011MAV",
+    "fiyat": 633.99,
+    "endirimlifiyat":599.99,
+    "renk":"Mavi",
+    "bedenler": [
+      "31",
+      "32",
+      "33",
+      "34",
+      "35",
+      "36"
+    ],
+    "stok": 348,
+    "etiket":"Sepette 20% Az Öde",
+    "resimler": [
+      "https://images.altinyildizclassics.com/images/4A0124100011MAV_1.jpg",
+      "https://images.altinyildizclassics.com/images/4A0124100011MAV_2.jpg",
+      "https://images.altinyildizclassics.com/images/4A0124100011MAV_5.jpg",
+      "https://images.altinyildizclassics.com/images/4A0124100011MAV_6.jpg"
     ]
   },
           {
     "id": 18,
-    "tip":"Ayakkabı",
-    "kategori": "Terlik",
+    "tip":"Giyim",
+    "kategori": "Mayo / Deniz Şortu",
     "altKategori": "",
-    "isim": "Esnek Rahat Taban Lacivert Terlik",
-    "kod": "4A2323200003LAC",
-    "fiyat": 399.99,
-    "endirimlifiyat":347.99,
-    "renk":"Lacivert",
+    "isim": "Standart Fit Normal Kesim Cepli Hızlı Kuruyan Desenli Pembe Mayo Deniz Şortu",
+    "kod": "ET4723200009PMB",
+    "fiyat": 333.99,
+    "renk":"Pembe",
     "bedenler": [
-      "40",
-      "41",
-      "42",
-      "43",
-      "44",
-      "45"
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
     ],
     "stok": 348,
-    "etiket":"Sepette 10% Az Öde",
+    "etiket":"Sepette 20% Az Öde",
     "resimler": [
-      "https://images.altinyildizclassics.com/images/4A2323200003LAC_20.jpg",
-      "https://images.altinyildizclassics.com/images/4A2323200003LAC_21.jpg",
-      "https://images.altinyildizclassics.com/images/4A2323200003LAC_22.jpg",
-      "https://images.altinyildizclassics.com/images/4A2323200003LAC_23.jpg"
+      "https://images.altinyildizclassics.com/images/ET4723200009PMB_74.jpg",
+      "https://images.altinyildizclassics.com/images/ET4723200009PMB_76.jpg",
+      "https://images.altinyildizclassics.com/images/ET4723200009PMB_77.jpg",
+      "https://images.altinyildizclassics.com/images/ET4723200009PMB_81.jpg"
     ]
   },
           {
     "id": 19,
-    "tip":"Ayakkabı",
-    "kategori": "Terlik",
+    "tip":"Giyim",
+    "kategori": "Mayo / Deniz Şortu",
     "altKategori": "",
-    "isim": "Esnek Rahat Taban Lacivert Terlik",
-    "kod": "4A2323200003LAC",
-    "fiyat": 399.99,
-    "endirimlifiyat":347.99,
-    "renk":"Lacivert",
+    "isim": "Standart Fit Normal Kesim Cepli Hızlı Kuruyan Desenli Beyaz-Turuncu Mayo Deniz Şortu",
+    "kod": "4A4722200112BTU",
+    "fiyat": 330.99,
+    "endirimlifiyat":327.68 ,
+    "renk":"Turuncu",
     "bedenler": [
-      "40",
-      "41",
-      "42",
-      "43",
-      "44",
-      "45"
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
     ],
     "stok": 348,
-    "etiket":"Sepette 10% Az Öde",
+    "etiket":"Sepette 20% Az Öde",
     "resimler": [
-      "https://images.altinyildizclassics.com/images/4A2323200003LAC_20.jpg",
-      "https://images.altinyildizclassics.com/images/4A2323200003LAC_21.jpg",
-      "https://images.altinyildizclassics.com/images/4A2323200003LAC_22.jpg",
-      "https://images.altinyildizclassics.com/images/4A2323200003LAC_23.jpg"
+      "https://images.altinyildizclassics.com/images/4A4722200112BTU_12.jpg",
+      "https://images.altinyildizclassics.com/images/4A4722200112BTU_15.jpg",
+      "https://images.altinyildizclassics.com/images/4A4722200112BTU_13.jpg",
+      "https://images.altinyildizclassics.com/images/4A4722200112BTU_18.jpg"
     ]
   },
           {
     "id": 20,
-    "tip":"Ayakkabı",
-    "kategori": "Terlik",
-    "altKategori": "",
-    "isim": "Esnek Rahat Taban Lacivert Terlik",
-    "kod": "4A2323200003LAC",
-    "fiyat": 399.99,
-    "endirimlifiyat":347.99,
-    "renk":"Lacivert",
+    "tip":"Giyim",
+    "kategori": "Sweatshirt",
+    "altKategori": "Kapüşonlu Sweatshirt",
+    "isim": "Standart Fit Normal Kesim İçi Polarlı 3 İplik Kapüşonlu Kanguru Cepli Pamuklu Beyaz Sweatshirt",
+    "kod": "ET5224100014BYZ",
+    "fiyat": 849.99,
+    "renk":"Beyaz",
     "bedenler": [
-      "40",
-      "41",
-      "42",
-      "43",
-      "44",
-      "45"
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
     ],
     "stok": 348,
-    "etiket":"Sepette 10% Az Öde",
+    "etiket":"Sepette 20% Az Öde",
     "resimler": [
-      "https://images.altinyildizclassics.com/images/4A2323200003LAC_20.jpg",
-      "https://images.altinyildizclassics.com/images/4A2323200003LAC_21.jpg",
-      "https://images.altinyildizclassics.com/images/4A2323200003LAC_22.jpg",
-      "https://images.altinyildizclassics.com/images/4A2323200003LAC_23.jpg"
+      "https://images.altinyildizclassics.com/images/ET5224100014BYZ_55.jpg",
+      "https://images.altinyildizclassics.com/images/ET5224100014BYZ_56.jpg",
+      "https://images.altinyildizclassics.com/images/ET5224100014BYZ_57.jpg",
+      "https://images.altinyildizclassics.com/images/ET5224100014BYZ_59.jpg"
     ]
   },
           {
     "id": 21,
-    "tip":"Ayakkabı",
-    "kategori": "Terlik",
-    "altKategori": "",
-    "isim": "Esnek Rahat Taban Lacivert Terlik",
-    "kod": "4A2323200003LAC",
-    "fiyat": 399.99,
-    "endirimlifiyat":347.99,
+    "tip":"Giyim",
+    "kategori": "Sweatshirt",
+    "altKategori": "Kapüşonlu Sweatshirt",
+    "isim": "Oversize Bol Kesim Kapüşonlu Pamuklu Baskılı Lacivert Sweatshirt",
+    "kod": "4A5223100225LAC",
+    "fiyat":599.99,
     "renk":"Lacivert",
     "bedenler": [
-      "40",
-      "41",
-      "42",
-      "43",
-      "44",
-      "45"
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
     ],
     "stok": 348,
-    "etiket":"Sepette 10% Az Öde",
+    "etiket":"Sepette 20% Az Öde",
     "resimler": [
-      "https://images.altinyildizclassics.com/images/4A2323200003LAC_20.jpg",
-      "https://images.altinyildizclassics.com/images/4A2323200003LAC_21.jpg",
-      "https://images.altinyildizclassics.com/images/4A2323200003LAC_22.jpg",
-      "https://images.altinyildizclassics.com/images/4A2323200003LAC_23.jpg"
+      "https://images.altinyildizclassics.com/images/4A5223100225LAC_25.jpg",
+      "https://images.altinyildizclassics.com/images/4A5223100225LAC_27.jpg",
+      "https://images.altinyildizclassics.com/images/4A5223100225LAC_29.jpg",
+      "https://images.altinyildizclassics.com/images/4A5223100225LAC_30.jpg"
     ]
   },
           {
     "id": 22,
-    "tip":"Ayakkabı",
-    "kategori": "Terlik",
+    "tip":"Kampanyalar",
+    "kategori": "Tek Gün Dev İndirim",
     "altKategori": "",
-    "isim": "Esnek Rahat Taban Lacivert Terlik",
-    "kod": "4A2323200003LAC",
-    "fiyat": 399.99,
-    "endirimlifiyat":347.99,
-    "renk":"Lacivert",
+    "isim": "Harvard Lisanslı Oversize Bol Kesim %100 Pamuk Baskılı Bisiklet Yaka Beyaz Tişört",
+    "kod": "ET4824200074BYZ",
+    "fiyat": 499.99,
+    "endirimlifiyat": 299.99,
+    "renk":"Beyaz",
     "bedenler": [
-      "40",
-      "41",
-      "42",
-      "43",
-      "44",
-      "45"
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
     ],
     "stok": 348,
     "etiket":"Sepette 10% Az Öde",
     "resimler": [
-      "https://images.altinyildizclassics.com/images/4A2323200003LAC_20.jpg",
-      "https://images.altinyildizclassics.com/images/4A2323200003LAC_21.jpg",
-      "https://images.altinyildizclassics.com/images/4A2323200003LAC_22.jpg",
-      "https://images.altinyildizclassics.com/images/4A2323200003LAC_23.jpg"
+      "https://images.altinyildizclassics.com/images/ET4824200074BYZ_20.jpg",
+      "https://images.altinyildizclassics.com/images/ET4824200074BYZ_21.jpg",
+      "https://images.altinyildizclassics.com/images/ET4824200074BYZ_24.jpg",
+      "https://images.altinyildizclassics.com/images/ET4824200074BYZ_28.jpg"
     ]
   },
           {
     "id": 23,
-    "tip":"Ayakkabı",
-    "kategori": "Terlik",
+    "tip":"Kampanyalar",
+    "kategori": "Tek Gün Dev İndirim",
     "altKategori": "",
-    "isim": "Esnek Rahat Taban Lacivert Terlik",
-    "kod": "4A2323200003LAC",
-    "fiyat": 399.99,
-    "endirimlifiyat":347.99,
-    "renk":"Lacivert",
+    "isim": "%100 Pamuk Flamlı Oxford Slim Fit Dar Kesim Düğmeli Yaka Bej Gömlek",
+    "kod": "4A2021200056BEJ",
+    "fiyat": 719.99 ,
+    "endirimlifiyat":599.99,
+    "renk":"Bej",
     "bedenler": [
-      "40",
-      "41",
-      "42",
-      "43",
-      "44",
-      "45"
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
     ],
     "stok": 348,
     "etiket":"Sepette 10% Az Öde",
     "resimler": [
-      "https://images.altinyildizclassics.com/images/4A2323200003LAC_20.jpg",
-      "https://images.altinyildizclassics.com/images/4A2323200003LAC_21.jpg",
-      "https://images.altinyildizclassics.com/images/4A2323200003LAC_22.jpg",
-      "https://images.altinyildizclassics.com/images/4A2323200003LAC_23.jpg"
+      "https://images.altinyildizclassics.com/images/4A2021200056BEJ_45.jpg",
+      "https://images.altinyildizclassics.com/images/4A2021200056BEJ_50.jpg",
+      "https://images.altinyildizclassics.com/images/4A2021200056BEJ_52.jpg",
+      "https://images.altinyildizclassics.com/images/4A2021200056BEJ_54.jpg"
+    ]
+  },
+          {
+    "id": 24,
+    "tip":"Kampanyalar",
+    "kategori": "Tek Gün Dev İndirim",
+    "altKategori": "",
+    "isim": "Slim Fit Dar Kesim Polo Yaka %100 Pamuk Siyah Tişört",
+    "kod": "4A4823200218SYH",
+    "fiyat": 489.99,
+    "endirimlifiyat":399.99,
+    "renk":"Siyah",
+    "bedenler": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "stok": 348,
+    "etiket":"Sepette 15% Az Öde",
+    "resimler": [
+      "https://images.altinyildizclassics.com/images/4A4823200218SYH_115.jpg",
+      "https://images.altinyildizclassics.com/images/4A4823200218SYH_116.jpg",
+      "https://images.altinyildizclassics.com/images/4A4823200218SYH_118.jpg",
+      "https://images.altinyildizclassics.com/images/4A4823200218SYH_121.jpg"
+    ]
+  },
+            {
+    "id": 25,
+    "tip":"Kampanyalar",
+    "kategori": "Tek Gün Dev İndirim",
+    "altKategori": "",
+    "isim": "Slim Fit Dar Kesim Kıvrılmaz Polo Yaka Kısa Kollu Lacivert Tişört",
+    "kod": "4A4820200047LAC",
+    "fiyat": 339.99,
+    "endirimlifiyat":239.99,
+    "renk":"Lacivert",
+    "bedenler": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "stok": 348,
+    "etiket":"Sepette 5% Az Öde",
+    "resimler": [
+      "https://images.altinyildizclassics.com/images/4A4820200047LAC_50.jpg",
+      "https://images.altinyildizclassics.com/images/4A4820200047LAC_52.jpg",
+      "https://images.altinyildizclassics.com/images/4A4820200047LAC_54.jpg",
+      "https://images.altinyildizclassics.com/images/4A4820200047LAC_55.jpg"
     ]
   }
 ]}
